@@ -1,0 +1,98 @@
+# Dart and Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+**/doc/api/
+**/.last_build_id
+.widget_preview/
+
+# Dart/Flutter build outputs and diagnostics
+*.class
+*.log
+*.pyc
+*.symbols
+*.map.json
+*.dill
+*.snapshot
+
+# Android / Gradle local state and build outputs
+**/.gradle/
+**/local.properties
+**/captures/
+**/cxx/
+**/.cxx/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Local signing credentials (never commit private keys or passwords)
+**/key.properties
+**/*.keystore
+**/*.jks
+
+# Apple / Xcode generated files
+**/DerivedData/
+**/Pods/
+**/.symlinks/
+**/xcuserdata/
+**/*.mode1v3
+**/*.mode2v3
+**/*.moved-aside
+**/*.pbxuser
+**/*.perspectivev3
+**/Flutter/ephemeral/
+**/Flutter/Generated.xcconfig
+**/Flutter/flutter_export_environment.sh
+**/Flutter/Flutter.framework
+**/Flutter/App.framework
+**/Runner/GeneratedPluginRegistrant.*
+
+# Windows / Visual Studio local state and outputs
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+**/x64/
+**/x86/
+*.cache
+!*.cache/
+
+# IDE and editor state
+.idea/
+*.iml
+*.ipr
+*.iws
+.history/
+.vscode/*.log
+
+# Operating system and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*.tmp
+*.temp
+*~
+
+# Local-only environment and secret files; keep sample templates shareable
+.env
+.env.*
+!.env.example
+!.env.*.example
+
+# Miscellaneous tool state
+.atom/
+.build/
+.buildlog/
+.swiftpm/
+.svn/
+.sconsign.dblite
+.tags*
+.vagrant/
+migrate_working_dir/
